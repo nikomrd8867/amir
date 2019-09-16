@@ -82,9 +82,5 @@
 
 1.  با تغییر از [سعید زبردست](http://zebardast.ir/%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%87%D8%A7%DB%8C-%DA%A9%D8%AF-%D8%A8%D8%A7%D8%B2-%D8%A8%D8%AF%D9%88%D9%86-%DA%A9%D8%AF-%D9%86%D9%88%DB%8C%D8%B3%DB%8C/)
 
-  
-
-صفحه قبلی: [تصاویر](http://www.freeamir.com/fa/index.php?page=Pictures "تصاویر")  
-صفحه بعدی: [درباره ما](http://www.freeamir.com/fa/index.php?page=About-Us "درباره ما")
 
 * * *
