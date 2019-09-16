@@ -1,4 +1,4 @@
-<style> .main-content{direction:auto} </style>
+<style> .main-content{direction:rtl} </style>
 نصب
 ---
 
@@ -14,7 +14,7 @@
 
 در صورتی که از نسخه های قدیمی تر استفاده می کنید می توانید مخزن را به صورت دستی به لیست مخازن خود اضافه کنید
 
-`deb [http://ppa.launchpad.net/hadi60/jooyeshgar/ubuntu](http://ppa.launchpad.net/hadi60/jooyeshgar/ubuntu "http://ppa.launchpad.net/hadi60/jooyeshgar/ubuntu") YOUR_UBUNTU_VERSION_HERE main deb-src [http://ppa.launchpad.net/hadi60/jooyeshgar/ubuntu](http://ppa.launchpad.net/hadi60/jooyeshgar/ubuntu "http://ppa.launchpad.net/hadi60/jooyeshgar/ubuntu") YOUR_UBUNTU_VERSION_HERE main`
+<- `deb [http://ppa.launchpad.net/hadi60/jooyeshgar/ubuntu](http://ppa.launchpad.net/hadi60/jooyeshgar/ubuntu "http://ppa.launchpad.net/hadi60/jooyeshgar/ubuntu") YOUR_UBUNTU_VERSION_HERE main deb-src [http://ppa.launchpad.net/hadi60/jooyeshgar/ubuntu](http://ppa.launchpad.net/hadi60/jooyeshgar/ubuntu "http://ppa.launchpad.net/hadi60/jooyeshgar/ubuntu") YOUR_UBUNTU_VERSION_HERE main` ->
 
 برای اطلاعات بیشتر می توانید به آدرس زیر مراجعه کنید
 
