@@ -1,4 +1,5 @@
-<style>direction{rtl}</style>
+<style> .main-content{direction:rtl} </style>
+
 همکاری
 ------
 
