@@ -1,4 +1,4 @@
-<style> .main-content{direction:rtl};a{direction:ltr} </style>
+<style> .main-content{direction:auto} </style>
 نصب
 ---
 
