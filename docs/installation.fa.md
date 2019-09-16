@@ -1,3 +1,4 @@
+<style> .main-content{direction:rtl} </style>
 نصب
 ---
 
