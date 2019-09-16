@@ -13,8 +13,9 @@
 `sudo add-apt-repository ppa:hadi60/jooyeshgar`
 
 در صورتی که از نسخه های قدیمی تر استفاده می کنید می توانید مخزن را به صورت دستی به لیست مخازن خود اضافه کنید
-
+<div "dir=ltr">
 `deb [http://ppa.launchpad.net/hadi60/jooyeshgar/ubuntu](http://ppa.launchpad.net/hadi60/jooyeshgar/ubuntu "http://ppa.launchpad.net/hadi60/jooyeshgar/ubuntu") YOUR_UBUNTU_VERSION_HERE main deb-src [http://ppa.launchpad.net/hadi60/jooyeshgar/ubuntu](http://ppa.launchpad.net/hadi60/jooyeshgar/ubuntu "http://ppa.launchpad.net/hadi60/jooyeshgar/ubuntu") YOUR_UBUNTU_VERSION_HERE main`
+ </div>
 
 برای اطلاعات بیشتر می توانید به آدرس زیر مراجعه کنید
 
@@ -94,8 +95,4 @@ My Computer( Right click ) -> Properties - > Advanced ( tab ) -> Environment Var
 در این مثال مسیر بازشده فایلهای نرم افزار در آدرس c:\\amir بوده است
 
   
-
-صفحه قبلی: [صفحه اصلی](http://www.freeamir.com/fa/ "Home Page, shortcut key=1")  
-صفحه بعدی: [راهنما](http://www.freeamir.com/fa/index.php?page=help "راهنما")
-
 * * *
